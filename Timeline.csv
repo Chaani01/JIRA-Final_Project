@@ -1,0 +1,50 @@
+﻿Key,Issue Type,Parent,Summary,Status,Assignee,Start date,Inferred start date,Due date,Inferred due date,Issue color
+BTS-56,Epic,,Develop User Authentication System,To Do,Nirmal Kaur,12/14/2024,12/14/2024,1/2/2025,1/2/2025,purple
+BTS-64,Task,BTS-56,Design Registration Page UI,To Do,Harshdeep Singh,12/19/2024,12/19/2024,1/1/2025,1/1/2025,purple
+BTS-65,Task,BTS-56,Implement User Login API,To Do,Nirmal Kaur,12/17/2024,12/17/2024,12/30/2024,12/30/2024,purple
+BTS-66,Task,BTS-56,Add User Profile Page,To Do,Nirmal Kaur,12/15/2024,12/15/2024,12/28/2024,12/28/2024,purple
+BTS-67,Task,BTS-56,Implement Two-Factor Authentication (2FA),To Do,Prabh Jot,12/20/2024,12/20/2024,1/2/2025,1/2/2025,purple
+BTS-68,Task,BTS-56,Implement Two-Factor Authentication (2FA),To Do,Nirmal Kaur,12/16/2024,12/16/2024,12/29/2024,12/29/2024,purple
+BTS-57,Epic,,Design Product Catalog Page,To Do,Prabh Jot,12/12/2024,12/12/2024,1/6/2025,1/6/2025,yellow
+BTS-69,Task,BTS-57,Create Database for Product Information (Schema Design),To Do,Harshdeep Singh,12/19/2024,12/19/2024,1/1/2025,1/1/2025,purple
+BTS-70,Task,BTS-57,Develop Frontend UI for Product Listings,To Do,Prabh Jot,12/14/2024,12/14/2024,12/27/2024,12/27/2024,purple
+BTS-71,Task,BTS-57,Implement Product Search and Filtering System,Testing,Prabh Jot,12/13/2024,12/13/2024,12/26/2024,12/26/2024,purple
+BTS-72,Task,BTS-57,Add Pagination for Product Listing,Testing,Prabh Jot,12/22/2024,12/22/2024,1/4/2025,1/4/2025,purple
+BTS-73,Task,BTS-57,Test Product Catalog Page Responsiveness,In Progress,Nirmal Kaur,12/20/2024,12/20/2024,1/2/2025,1/2/2025,purple
+BTS-58,Epic,,Implement Payment Gateway Integration,To Do,Prabh Jot,12/12/2024,12/12/2024,1/9/2025,1/9/2025,dark_orange
+BTS-77,Task,BTS-58,Ensure Payment Security and PCI Compliance,To Do,Prabh Jot,12/16/2024,12/16/2024,12/29/2024,12/29/2024,purple
+BTS-76,Task,BTS-58,Implement Checkout Flow with Payment Gateway,Review,Prabh Jot,12/18/2024,12/18/2024,12/31/2024,12/31/2024,purple
+BTS-75,Task,BTS-58,Develop Payment API Integration,Review,Prabh Jot,12/12/2024,12/12/2024,12/25/2024,12/25/2024,purple
+BTS-74,Task,BTS-58,"Research and Choose Payment Gateway (e.g., Stripe, PayPal)",Done,Harshdeep Singh,12/27/2024,12/27/2024,1/6/2025,1/6/2025,purple
+BTS-78,Task,BTS-58,Test Payment Gateway Integration with Multiple Payment Methods,In Progress,Nirmal Kaur,12/23/2024,12/23/2024,1/5/2025,1/5/2025,purple
+BTS-59,Epic,,Implement Shopping Cart System,To Do,Nirmal Kaur,12/12/2024,12/12/2024,1/4/2025,1/4/2025,teal
+BTS-80,Task,BTS-59,Develop Cart Management Logic (Add/Remove Items),Review,Harshdeep Singh,12/13/2024,12/13/2024,12/26/2024,12/26/2024,purple
+BTS-79,Task,BTS-59,"Design Shopping Cart UI (Add, Remove, Edit Items)",Review,Prabh Jot,12/13/2024,12/13/2024,12/26/2024,12/26/2024,purple
+BTS-83,Task,BTS-59,Test Cart Functionality with Different Products,Done,Nirmal Kaur,12/21/2024,12/21/2024,1/3/2025,1/3/2025,purple
+BTS-81,Task,BTS-59,Integrate Cart with User Account for Persistence,Testing,Nirmal Kaur,12/18/2024,12/18/2024,12/31/2024,12/31/2024,purple
+BTS-82,Task,BTS-59,"Implement Cart Summary with Subtotal, Taxes, and Shipping",In Progress,Nirmal Kaur,12/19/2024,12/19/2024,1/1/2025,1/1/2025,purple
+BTS-60,Epic,,Design Checkout Process,To Do,Harshdeep Singh,12/13/2024,12/13/2024,1/12/2025,1/12/2025,dark_blue
+BTS-88,Task,BTS-60,Test Checkout Process for User Experience,Review,Harshdeep Singh,12/19/2024,12/19/2024,1/1/2025,1/1/2025,purple
+BTS-87,Task,BTS-60,Enable Email Confirmation of Order,Done,Prabh Jot,12/18/2024,12/18/2024,12/31/2024,12/31/2024,purple
+BTS-84,Task,BTS-60,Implement Address Form for Billing and Shipping,Done,Harshdeep Singh,12/18/2024,12/18/2024,12/31/2024,12/31/2024,purple
+BTS-86,Task,BTS-60,Develop Confirmation and Thank You Pages,Testing,Harshdeep Singh,12/14/2024,12/14/2024,12/27/2024,12/27/2024,purple
+BTS-85,Task,BTS-60,Create Order Summary Page Before Final Payment,In Progress,Nirmal Kaur,12/27/2024,12/27/2024,1/9/2025,1/9/2025,purple
+BTS-61,Epic,,Build Admin Dashboard,To Do,Harshdeep Singh,12/12/2024,12/12/2024,1/11/2025,1/11/2025,green
+BTS-92,Task,BTS-61,Add Order Management System for Admins,Review,Harshdeep Singh,12/14/2024,12/14/2024,12/27/2024,12/27/2024,purple
+BTS-94,Task,BTS-61,Test Admin Dashboard for Access Control,Done,Nirmal Kaur,12/13/2024,12/13/2024,12/26/2024,12/26/2024,purple
+BTS-91,Task,BTS-61,Develop Product Management Features (Add/Edit/Delete Products),Testing,Harshdeep Singh,12/27/2024,12/27/2024,1/9/2025,1/9/2025,purple
+BTS-93,Task,BTS-61,Implement User Management (View/Edit User Accounts),In Progress,Prabh Jot,12/23/2024,12/23/2024,1/5/2025,1/5/2025,purple
+BTS-89,Task,BTS-61,Design Dashboard UI for Admin View,In Progress,Harshdeep Singh,12/19/2024,12/19/2024,1/1/2025,1/1/2025,purple
+BTS-90,Task,BTS-61,Implement Admin Login and Authentication,In Progress,Harshdeep Singh,12/17/2024,12/17/2024,12/30/2024,12/30/2024,purple
+BTS-62,Epic,,Integrate with Inventory Management System,To Do,Nirmal Kaur,12/14/2024,12/14/2024,1/6/2025,1/6/2025,orange
+BTS-98,Task,BTS-62,Implement Low Stock Notifications for Admin,Testing,Nirmal Kaur,12/22/2024,12/22/2024,1/4/2025,1/4/2025,purple
+BTS-96,Task,BTS-62,Develop API Integration for Stock Management,Testing,Prabh Jot,12/22/2024,12/22/2024,1/4/2025,1/4/2025,purple
+BTS-99,Task,BTS-62,Test Inventory Integration for Accuracy,Testing,Harshdeep Singh,12/18/2024,12/18/2024,12/31/2024,12/31/2024,purple
+BTS-95,Task,BTS-62,Research Available Inventory Management APIs,In Progress,Nirmal Kaur,12/16/2024,12/16/2024,12/29/2024,12/29/2024,purple
+BTS-97,Task,BTS-62,Develop API Integration for Stock Management,In Progress,Nirmal Kaur,12/20/2024,12/20/2024,1/2/2025,1/2/2025,purple
+BTS-63,Epic,,Develop Product Review and Rating System,To Do,Prabh Jot,12/12/2024,12/12/2024,1/8/2025,1/8/2025,dark_teal
+BTS-102,Task,BTS-63,Add Star Rating System for Products,Review,Prabh Jot,12/15/2024,12/15/2024,12/28/2024,12/28/2024,purple
+BTS-100,Task,BTS-63,Design Review Submission Form,Review,Prabh Jot,12/16/2024,12/16/2024,12/29/2024,12/29/2024,purple
+BTS-101,Task,BTS-63,Implement Review Display on Product Page,Done,Nirmal Kaur,12/12/2024,12/12/2024,12/25/2024,12/25/2024,purple
+BTS-104,Task,BTS-63,Test Review Submission and Display,Testing,Prabh Jot,12/24/2024,12/24/2024,1/6/2025,1/6/2025,purple
+BTS-103,Task,BTS-63,Integrate with User Accounts to Limit Multiple Reviews,Testing,Nirmal Kaur,12/22/2024,12/22/2024,1/4/2025,1/4/2025,purple
